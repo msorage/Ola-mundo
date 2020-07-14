@@ -1,2 +1,3 @@
-# Ola-mundo
- Curso de git
+# Olá, Mundo!
+
+ Curso de git: Curso em vídeo com Gustavo Guanabara
